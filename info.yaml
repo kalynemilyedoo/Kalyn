@@ -1,6 +1,6 @@
 project:
   title: "1-Bit Full Adder"
-  author: "Zachary Doman"
+  author: "Kalyn Edoo"
   discord: ""
   description: "A 1-bit full adder implemented in VHDL using XOR, AND and OR gates."
   language: "VHDL"
